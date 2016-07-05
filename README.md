@@ -6,6 +6,8 @@
 
   *Interfaz de usuario bastante explicita
   
+  *Ejecutable: Editor.jar
+  
   *Realizado en Eclipse
   
   PD: Añadi la carpeta Editor debido a que aparentemente no corre el .jar en el .bin si no tiene las carpetas correctas a la mano.
